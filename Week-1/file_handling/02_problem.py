@@ -1,0 +1,33 @@
+about = "Hello guys, Its me Aayush Adhikari. I am 18 years old. I am from Nepal. I am proud to be Nepali. "
+
+f = open("myfile.txt", "a")
+
+f.write(about)
+f.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
